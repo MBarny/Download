@@ -1,0 +1,5 @@
+*.nc
+*.DS_store
+*.250mbfile.bin
+*250mbfile.bin
+*.bin
